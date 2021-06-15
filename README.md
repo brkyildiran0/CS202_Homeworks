@@ -2,7 +2,7 @@
 
 -> Assignments given by Bilkent University to apply data structures & algorithms in C++ language. 
 
-  [Assignment 1:](cs202/Assignment-1) **Sorting Alghorithms and Efficiency**
+  **Assignment 1:** [Sorting Alghorithms and Efficiency](https://github.com/brkyildiran0/cs202/tree/main/Assignment-1)
 
 Ömer Burak Yıldıran
 Bilkent University
