@@ -4,5 +4,14 @@
 
   **Assignment 1:** [Sorting Alghorithms and Efficiency](https://github.com/brkyildiran0/cs202/tree/main/Assignment-1)
 
-Ömer Burak Yıldıran
+
+
+Ömer Burak Yıldıran 
+
 Bilkent University
+
+---
+
+## Some Useful Links
+
+**[MakeFile Generator]**(http://solver.assistedcoding.eu/makefilegen)
