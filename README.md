@@ -14,4 +14,4 @@ Bilkent University
 
 ## Some Useful Links
 
-**[MakeFile Generator]**(http://solver.assistedcoding.eu/makefilegen)
+[**MakeFile Generator**](http://solver.assistedcoding.eu/makefilegen)
