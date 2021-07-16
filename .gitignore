@@ -1,9 +1,0 @@
-##CLion Attributes
-
-CMakeLists.txt
-cmake-build-debug/
-.idea/
-
-
-##CMake Attributes
-*.cbp
