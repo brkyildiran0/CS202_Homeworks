@@ -5,6 +5,8 @@
   **Assignment 1:** [Sorting Alghorithms and Efficiency](https://github.com/brkyildiran0/cs202/tree/main/Assignment-1)
   
   **Assignment 2:** [Binary Search Trees](https://github.com/brkyildiran0/cs202/tree/main/Assignment-2)
+  
+  **Assignment 3:** [Balanced Search Trees](https://github.com/brkyildiran0/cs202/tree/main/Assignment-3)
 
 
 
